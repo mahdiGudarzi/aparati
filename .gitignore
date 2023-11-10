@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+/.idea
+/dist
+chromedriver
+chromedriver_linux64.zip
+/.aparat_dl.egg-info
+=======
+./idea
+./dist
+chromedriver
+chromedriver_linux64.zip
+./aparat_dl.egg-info
+>>>>>>> origin/main
+/dist/
+/aparat_dl.egg-info/
+/.idea/git_toolbox_prj.xml
